@@ -1,2 +1,2 @@
 # Forecasting-With-Prophet
-Utilizing prophet for Forecasting Kaggle Competition
+Utilizing Meta's Prophet (https://facebook.github.io/prophet/) for Forecasting Kaggle Competition
